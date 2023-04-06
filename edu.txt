@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dskadjskajd
 kdsajdksjakd
+=======
+hola esto es una clase
+>>>>>>> f2fc4b3aa1b4b021043b08cfc8fa0bcf1438b8da
